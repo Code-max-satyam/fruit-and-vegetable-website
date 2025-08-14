@@ -13,6 +13,6 @@ Easy Navigation – Well-organized categories for quick browsing
  
  Technologies Used
  
-HTML – For the structure of the website
-CSS – For styling and responsive design
-JavaScript – For interactivity and dynamic content
+HTML – For the structure of the website.
+CSS – For styling and responsive design.
+JavaScript – For interactivity and dynamic content.
