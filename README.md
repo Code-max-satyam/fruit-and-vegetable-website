@@ -6,13 +6,15 @@ The website provides an attractive and user-friendly interface for showcasing fr
 ✨ Features
 
 Beautiful Design – Clean and modern layout with vibrant colors
- Responsive Layout – Works seamlessly on mobile, tablet, and desktop
- Newsletter Subscription – Simple form for email sign-up
+Responsive Layout – Works seamlessly on mobile, tablet, and desktop
+Newsletter Subscription – Simple form for email sign-up
 Easy Navigation – Well-organized categories for quick browsing
- Interactive Elements – Hover effects and smooth transitions using JavaScript
+Interactive Elements – Hover effects and smooth transitions using JavaScript
  
  Technologies Used
  
 HTML – For the structure of the website.
+
 CSS – For styling and responsive design.
+
 JavaScript – For interactivity and dynamic content.
